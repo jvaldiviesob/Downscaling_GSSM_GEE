@@ -4,10 +4,10 @@
 //Link: https://cirencl-my.sharepoint.com/:u:/g/personal/ccalvo_ciren_cl/ERfCBnlNpttNqCyzAuX8YEkB_lSetiTLgpP_EWOsiAnNzg?e=Cvyd9d
 
 //La variable "image" corresponde al asset LST_2019_Day_EEUU_Chile y debe ser cargado en GEE. 
-//Link:
+//Link:https://cirencl-my.sharepoint.com/:i:/g/personal/ccalvo_ciren_cl/EXEeRrVXP-xFtbOrp_Tck_EBkjgoHZt3OMYlJTS6A-9pLA?e=7IgWVN
 
 //La variable "image2" corresponde al asset LST_2019_Night_EEUU_Chile y debe ser cargado en GEE. 
-//Link:
+//Link:https://cirencl-my.sharepoint.com/:i:/g/personal/ccalvo_ciren_cl/EZKm6pabwFJInsdWJv7emckBKE9ZoPkFCdLDm84OESkevA?e=5S0knD
 
 var MERIT = ee.Image("MERIT/Hydro/v1_0_1").clip(table),
     MOD13A2 = ee.ImageCollection("MODIS/061/MOD13A2").filterBounds(table),
