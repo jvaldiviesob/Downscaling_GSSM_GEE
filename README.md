@@ -6,10 +6,10 @@ La variable "table" corresponde al asset Rectangulo_Chile (.shp) que acota el do
 Link: https://cirencl-my.sharepoint.com/:u:/g/personal/ccalvo_ciren_cl/ERfCBnlNpttNqCyzAuX8YEkB_lSetiTLgpP_EWOsiAnNzg?e=Cvyd9d
 
 La variable "image" corresponde al asset LST_2019_Day_EEUU_Chile (.tif) y debe ser cargado en GEE. 
-Link:https://cirencl-my.sharepoint.com/:i:/g/personal/ccalvo_ciren_cl/EXEeRrVXP-xFtbOrp_Tck_EBkjgoHZt3OMYlJTS6A-9pLA?e=7IgWVN
+Link: https://cirencl-my.sharepoint.com/:i:/g/personal/ccalvo_ciren_cl/EXEeRrVXP-xFtbOrp_Tck_EBkjgoHZt3OMYlJTS6A-9pLA?e=7IgWVN
 
 La variable "image2" corresponde al asset LST_2019_Night_EEUU_Chile (.tif) y debe ser cargado en GEE. 
-Link:https://cirencl-my.sharepoint.com/:i:/g/personal/ccalvo_ciren_cl/EXEeRrVXP-xFtbOrp_Tck_EBkjgoHZt3OMYlJTS6A-9pLA?e=7IgWVN
+Link: https://cirencl-my.sharepoint.com/:i:/g/personal/ccalvo_ciren_cl/EXEeRrVXP-xFtbOrp_Tck_EBkjgoHZt3OMYlJTS6A-9pLA?e=7IgWVN
 
 # Gráfico de resultados
 
