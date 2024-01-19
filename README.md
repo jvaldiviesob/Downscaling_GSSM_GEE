@@ -1,6 +1,6 @@
 # Downscaling_SMAP_GEE
 
-main.js: Script para obtener un raster con valores diarios de humedad de suelo (bandas) para el año 2019 utilizando datos de entrenamientos provenientes de muestras de varios lugares del mundo, entrenando con estos un proceso de Random Forest. Para obtener la humedad de suelo se utiliza la regresión obtenida del Random Forest y predictores importados desde distintas colecciones de imágenes. El script se encuentra desarrollado en JavaScript para Google Earth Engine. Casi la totalidad del código pertenece al repositorio https://github.com/QianqianHan96/GSSM1km.
+main.js: Script para obtener un raster con valores diarios de humedad de suelo (bandas) para el año 2019 utilizando datos de entrenamientos provenientes de muestras de varios lugares del mundo, entrenando con estos un proceso de Random Forest. Para obtener la humedad de suelo se utiliza la regresión obtenida del Random Forest y predictores importados desde distintas colecciones de imágenes. El script se encuentra desarrollado en JavaScript para Google Earth Engine. Casi la totalidad del código pertenece al repositorio https://github.com/QianqianHan96/GSSM1km el cual a su vez, se basa en la publicación "Global long-term daily 1km surface soil moisture dataset with physics-informed machine learning (GSSM1km)".
 
 La variable "table" corresponde al asset Rectangulo_Chile (.shp) que acota el downscaling y debe ser cargada en GEE. 
 Link: https://cirencl-my.sharepoint.com/:u:/g/personal/ccalvo_ciren_cl/ERfCBnlNpttNqCyzAuX8YEkB_lSetiTLgpP_EWOsiAnNzg?e=Cvyd9d
